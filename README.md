@@ -1,7 +1,5 @@
 # ml-language-identifier
 
-Machine learning model for language identification
+Language identification app. Uses Naive Bayes classifier for language detection. Dockerized as a base image of Uvicorn and Gunicorn for FastAPI.
 
-Uses Naive Bayes classifier for language detection. Dockerized as Fast API base image.
-
-Colab - https://colab.research.google.com/drive/1qLshFKQPMvQM_8XFndTc7YZlDSlCC_nO
+[Colab](https://colab.research.google.com/drive/1qLshFKQPMvQM_8XFndTc7YZlDSlCC_nO)
