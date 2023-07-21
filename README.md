@@ -1,6 +1,6 @@
 # ml-language-identifier
 
-Language identification app. 
+Simple language identification app. 
 
 Uses Naive Bayes classifier for language detection. 
 
